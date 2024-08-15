@@ -13,7 +13,7 @@ residential finance, auto finance and other products and we meet the entire empl
 in an organization.
 - Step 3 : tried to make relationships between columns like date(months) and growth % and we used many charts like pie, chart, line chart, matrix, bar…etc).
 
-                                      --------------------------------------------------------------------------
+                                      
  # Wholesale products - Dashboard
 
 ## Problem Statement
