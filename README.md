@@ -1,4 +1,4 @@
-# SNB-Dashboard
+<img width="2160" height="1273" alt="Screenshot (411)" src="https://github.com/user-attachments/assets/e35f1912-b4cc-4b32-8d18-e0d7d48c192c" /># SNB-Dashboard
 # Residential Finance -Dashboard
 
 ## Problem Statement
@@ -26,3 +26,9 @@ about new data segment Loans (landing, GBT (Trade & Cash management).
 - Step 2 : Load data into Power BI Desktop, dataset is a csv file.
 - Step 3 : the insights were leveraged to build a 
 Power BI dashboard and the analysis revealed Top 5 company and Total balance by divisions.
+
+<img width="2160" height="1273" alt="Screenshot (411)" src="https://github.com/user-attachments/assets/8aa8066d-46ae-44dc-8dff-0d046110b7df" />
+
+<img width="2160" height="1294" alt="Screenshot (412)" src="https://github.com/user-attachments/assets/068163da-0c3a-4b5c-ad75-a665ba0b4dc1" />
+
+
