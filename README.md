@@ -31,4 +31,10 @@ Power BI dashboard and the analysis revealed Top 5 company and Total balance by 
 
 <img width="2160" height="1294" alt="Screenshot (412)" src="https://github.com/user-attachments/assets/068163da-0c3a-4b5c-ad75-a665ba0b4dc1" />
 
+<img width="2160" height="1305" alt="Screenshot (413)" src="https://github.com/user-attachments/assets/b777b68b-ab37-4f7d-bb70-d1da8a09a789" />
 
+<img width="2160" height="1282" alt="Screenshot (414)" src="https://github.com/user-attachments/assets/4ccffba5-033d-4a20-9754-aeecfd429141" />
+
+<img width="2160" height="1290" alt="Screenshot (415)" src="https://github.com/user-attachments/assets/e5051caf-c06c-43eb-affb-66225d7b1c56" />
+
+<img width="2160" height="1308" alt="Screenshot (416)" src="https://github.com/user-attachments/assets/d8904f86-3abb-4256-8d1b-ea5d6bf73d58" />
