@@ -1,4 +1,4 @@
-<img width="2160" height="1273" alt="Screenshot (411)" src="https://github.com/user-attachments/assets/e35f1912-b4cc-4b32-8d18-e0d7d48c192c" /># SNB-Dashboard
+
 # Residential Finance -Dashboard
 
 ## Problem Statement
